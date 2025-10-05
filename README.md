@@ -21,7 +21,7 @@ This Streamlit app allows you to summarize text or documents (PDF, Excel, CSV) i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Rajkishor01/Kunal-Kapur-Assignment.git
    cd your-repo
    ```
 2. **Install dependencies**
